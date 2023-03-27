@@ -31,7 +31,7 @@ Pour exécuter le code afin d'afficher la fenêtre Streamlit faite :
 streamlit run main.py
 ```
 
-## Attention : Si le test sur pymongo ne passe pas, entrez la commande suivante dans mongosh :
+## Attention : Si le test sur Mongo ne passe pas, entrez la commande suivante dans mongosh :
 ```
 db.dropDatabase()
 ```
