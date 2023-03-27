@@ -1,7 +1,6 @@
 # Projet_Python_Advanced, Scrapping du site statsF1 afin de récupérer le tableau des classements de 2020
 
-Le projet consciste à scrapper le site web statsf1 afin de récupérer les données du classement de la saison 2020 et de les stocker dans une base de donnée Mongo.
-Les données stockés seront utilisé par la suite afin de faire des diagrams et des dataframes qui seront affichés à l'aide de Streamlit.
+Le projet consiste à scrapper le site web statsf1 afin de récupérer les données du classement de la saison 2020 et de les stocker dans une base de donnée Mongo. Les données stockées seront utilisées par la suite afin de faire des diagrammes et des dataframes qui seront affichés à l'aide de Streamlit.
 
 #### NB : les #! et les #TODO permette de changer la couleur de mes commentaires, pour une meilleure lisibilité, je vous invite à installer l'extension BetterComments sur Visual Studio Code
 
