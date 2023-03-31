@@ -1,4 +1,4 @@
-from Projet_Python_Advanced.configMongo import collection
+from configMongo import collection
 import streamlit as st
 import numpy as np
 import pandas as pd
